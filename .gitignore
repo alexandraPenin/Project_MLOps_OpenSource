@@ -120,7 +120,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.artifacts
 .mlops_env
 mlops_env/
 MLOPS_ENV/
